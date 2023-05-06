@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Abdul Moeed</h1>
-<h4 align="center">A computer science student at COMSATS University Islamabad and an enthusiastic MERN stack developer and UI designer currently working as a front end developer.</h4>
+<h4 align="center">A computer science student at COMSATS University Islamabad and an enthusiastic MERN stack developer and UI designer currently working as a Junior software engineer @devaxl.</h4>
 </div>
 
 <div align="center">
