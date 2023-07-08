@@ -7,14 +7,20 @@
                 animation: mymove 2s infinite;
             }
 
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
-                to {
-                    color: yellow;
-                }
-            }
+            @keyframes dopeAnimation {
+      0% {
+        fill: red;
+        transform: translateX(-50%) rotate(0deg);
+      }
+      50% {
+        fill: blue;
+        transform: translateX(50%) rotate(180deg);
+      }
+      100% {
+        fill: red;
+        transform: translateX(-50%) rotate(360deg);
+      }
+    }
             </style>
             <h1>HELLO WORLD!</h1>
         </div>
