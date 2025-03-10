@@ -39,7 +39,7 @@
     </div>
 
 <h2 align="center">🧮 About Me</h2>
-    <p>👨🏽‍💻 I’m a graduate of <bold>Comsats University Islamabad</bold> working as a Junior software engineer @Devaxl</p>
+    <p>👨🏽‍💻 I’m a graduate of <bold>Comsats University Islamabad</bold> <bold>worked as a senior software engineer @Devaxl</bold> working as a software engineer @LeetPros</p>
     <p>🌱 I’m currently working as a Full stack developer mainly in MERN stack along with a little twist of next, angular, react native, and python. I am also working on adding additional skills as a <bold>Devops</bold> to my portfolio.</p>
     <p>🤔 My interest lies in <em>discovering and learning newest technologies.</em></p>
     <p>💬 I live by the motto <bold><em>Trait of all master of one</em></bold></p>
