@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='./moeed.gif' alt="name animation" />
+  <img src='./moeed-new.gif' alt="name animation" />
 </div>
 
 <div align="center">
