@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='./moeed-new.gif' alt="name animation" />
+  <img src='./moeed-new.gif' alt="name animation" style="width: 400px; height: 300px"/>
 </div>
 
 <!-- <div align="center">
@@ -48,6 +48,9 @@
     <p>💬 I live by the motto <bold><em>Trait of all master of one</em></bold></p>
     <p>📫 Email me at <em><bold>awan.moeed@hotmail.com</bold></em></p>
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
   <div>
     <h2 align="center"> 📊 Github stats </h2>
