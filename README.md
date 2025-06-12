@@ -2,11 +2,11 @@
   <img src='./moeed-new.gif' alt="name animation" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/MoeedthePessimist">
   <img  src="https://github.com/MoeedthePessimist/MoeedthePessimist/raw/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> -->
 
 <div>
   <samp>
@@ -19,8 +19,11 @@
       <a href="https://account.microsoft.com/profile" target="blank"><img align="center"
          src="https://img.shields.io/badge/hotmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
+       <a href="https://wa.me/+923435157379" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/></a>
     </p>
-  <p align="center">
+ <!-- <p align="center">
       <a href="https://www.instagram.com/moeed.io/" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
@@ -28,7 +31,7 @@
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
-    </p>
+    </p> -->
   </samp>
 </div>
 
