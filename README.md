@@ -57,22 +57,23 @@
 
   <div>
     <h2 align="center"> 📊 Github stats </h2>
-      <!-- <br/>
+      <br/>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/MoeedThePessimist/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoeedthePessimist&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="MoeedthePessimist :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MoeedthePessimist&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MoeedthePessimist&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/MoeedThePessimist/">
+          <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MoeedThePessimist&theme=gotham" />
+          <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MoeedThePessimist&theme=gotham" />
           </a>
        </p>
-     <br> -->
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoeedThePessimist&theme=gotham)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MoeedThePessimist&theme=gotham)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MoeedThePessimist&theme=gotham)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoeedThePessimist&theme=gotham)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MoeedThePessimist&theme=gotham&utcOffset=8)
+       <p align="center">
+          <a href="https://github.com/MoeedThePessimist/">
+          <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoeedThePessimist&theme=gotham" />
+          <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MoeedThePessimist&theme=gotham&utcOffset=8" />
+          </a>
+       </p>
+     <br>
 
   </div>
