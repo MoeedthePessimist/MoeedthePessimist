@@ -52,15 +52,12 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-
-
   <div>
     <h2 align="center"> 📊 Github stats </h2>
-      <br/>
+      <!-- <br/>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoeedthePessimist&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="MoeedthePessimist :: Top Langs" /></a>
@@ -71,5 +68,11 @@
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MoeedthePessimist&theme=gruvbox&hide_border=true" />
           </a>
        </p>
-     <br>
+     <br> -->
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoeedThePessimist&theme=gotham)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MoeedThePessimist&theme=gotham)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MoeedThePessimist&theme=gotham)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoeedThePessimist&theme=gotham)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MoeedThePessimist&theme=gotham&utcOffset=8)
+
   </div>
