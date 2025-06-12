@@ -53,6 +53,11 @@
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com/MoeedthePessimist/gecko/pull/5) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
+2. 💪 Opened PR [#5](https://github.com/MoeedthePessimist/gecko/pull/5) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
+3. 🎉 Merged PR [#4](https://github.com/MoeedthePessimist/gecko/pull/4) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
+4. 💪 Opened PR [#4](https://github.com/MoeedthePessimist/gecko/pull/4) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
+5. 🎉 Merged PR [#3](https://github.com/MoeedthePessimist/gecko/pull/3) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
 <!--END_SECTION:activity-->
 
   <div>
