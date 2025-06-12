@@ -52,6 +52,12 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+
   <div>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
