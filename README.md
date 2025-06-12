@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='./moeed-new.gif' alt="name animation" style="width: 400px; height: 300px"/>
+  <img src='./moeed-new.gif' alt="name animation" style="width: auto; height: 300px"/>
 </div>
 
 <!-- <div align="center">
