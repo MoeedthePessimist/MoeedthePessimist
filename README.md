@@ -37,8 +37,7 @@
      <img src=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white/>&nbsp;
      <img src=https://img.shields.io/badge/expo-1C2024.svg?style=for-the-badge&logo=expo&logoColor=white/>&nbsp;
-
-    </div>
+     </div>
 
   </td>
   <td valign="top" width="33%">
