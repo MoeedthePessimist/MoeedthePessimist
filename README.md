@@ -121,7 +121,7 @@ No activity tracked
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/MoeedthePessimist/gecko/pull/6) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
+1. 💪 Opened PR [#7](undefined) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
 2. 💪 Opened PR [#6](https://github.com/MoeedthePessimist/gecko/pull/6) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
 3. 🎉 Merged PR [#4](https://github.com/MoeedthePessimist/gecko/pull/4) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
 4. 💪 Opened PR [#4](https://github.com/MoeedthePessimist/gecko/pull/4) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
