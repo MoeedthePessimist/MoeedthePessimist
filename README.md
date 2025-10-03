@@ -114,8 +114,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 mins          █████████████████████░░░░   84.51 %
-Bash         1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
