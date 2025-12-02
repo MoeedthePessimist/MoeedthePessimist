@@ -121,11 +121,11 @@ No activity tracked
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#12](undefined) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
-2. 💪 Opened PR [#11](undefined) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
-3. 💪 Opened PR [#10](undefined) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
-4. 💪 Opened PR [#8](undefined) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
-5. 🎉 Merged PR [#3](https://github.com/MoeedthePessimist/gecko/pull/3) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
+1. ❌ Merged PR [#12](undefined) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
+2. 💪 Opened PR [#12](undefined) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
+3. ❌ Merged PR [#9](undefined) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
+4. ❌ Merged PR [#11](undefined) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
+5. 💪 Opened PR [#11](undefined) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
 <!--END_SECTION:activity-->
 
   <div>
