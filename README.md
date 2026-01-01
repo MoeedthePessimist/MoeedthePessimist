@@ -121,11 +121,11 @@ No activity tracked
 
 <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#16](undefined) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
-2. 💪 Opened PR [#16](undefined) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
-3. ❌ Merged PR [#15](undefined) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
-4. 💪 Opened PR [#15](undefined) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
-5. ❌ Merged PR [#14](undefined) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
+1. 🎉 Merged PR [#16](https://github.com/MoeedthePessimist/gecko/pull/16) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
+2. 💪 Opened PR [#16](https://github.com/MoeedthePessimist/gecko/pull/16) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
+3. 🎉 Merged PR [#15](https://github.com/MoeedthePessimist/gecko/pull/15) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
+4. 💪 Opened PR [#15](https://github.com/MoeedthePessimist/gecko/pull/15) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
+5. 🎉 Merged PR [#14](https://github.com/MoeedthePessimist/gecko/pull/14) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
 <!--END_SECTION:activity-->
 
   <div>
