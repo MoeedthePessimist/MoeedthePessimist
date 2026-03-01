@@ -121,10 +121,10 @@ No activity tracked
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#16](https://github.com/MoeedthePessimist/gecko/pull/16) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
-2. 💪 Opened PR [#16](https://github.com/MoeedthePessimist/gecko/pull/16) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
-3. 🎉 Merged PR [#15](https://github.com/MoeedthePessimist/gecko/pull/15) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
-4. 💪 Opened PR [#15](https://github.com/MoeedthePessimist/gecko/pull/15) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
+1. 🎉 Merged PR [#2](https://github.com/MoeedthePessimist/personal-portfolio/pull/2) in [MoeedthePessimist/personal-portfolio](https://github.com/MoeedthePessimist/personal-portfolio)
+2. 💪 Opened PR [#2](https://github.com/MoeedthePessimist/personal-portfolio/pull/2) in [MoeedthePessimist/personal-portfolio](https://github.com/MoeedthePessimist/personal-portfolio)
+3. 🎉 Merged PR [#1](https://github.com/MoeedthePessimist/personal-portfolio/pull/1) in [MoeedthePessimist/personal-portfolio](https://github.com/MoeedthePessimist/personal-portfolio)
+4. 💪 Opened PR [#1](https://github.com/MoeedthePessimist/personal-portfolio/pull/1) in [MoeedthePessimist/personal-portfolio](https://github.com/MoeedthePessimist/personal-portfolio)
 5. 🎉 Merged PR [#14](https://github.com/MoeedthePessimist/gecko/pull/14) in [MoeedthePessimist/gecko](https://github.com/MoeedthePessimist/gecko)
 <!--END_SECTION:activity-->
 
