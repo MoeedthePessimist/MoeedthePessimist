@@ -114,8 +114,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   18 mins               ████████████████▒░░░░░░░░   64.92 %
-HTML         10 mins               ████████▓░░░░░░░░░░░░░░░░   35.08 %
+HTML         10 mins               ████████████████▒░░░░░░░░   64.93 %
+JavaScript   5 mins                ████████▓░░░░░░░░░░░░░░░░   35.07 %
 ```
 
 <!--END_SECTION:waka-->
