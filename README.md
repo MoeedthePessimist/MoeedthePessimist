@@ -114,10 +114,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript    56 mins               ████████████████████░░░░░   79.73 %
-HTML          11 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
-Text          3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-Image (svg)   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
